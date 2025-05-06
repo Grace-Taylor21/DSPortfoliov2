@@ -5,6 +5,8 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-include-cache
+
 
 author:
   name: "Your Name"
