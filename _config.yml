@@ -1,4 +1,4 @@
-title: "Your Name – Data Science Portfolio"
+title: "Grace Taylor – Data Science Portfolio"
 description: "Showcasing data science projects, notebooks, and insights."
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
@@ -9,11 +9,11 @@ plugins:
 
 
 author:
-  name: "Your Name"
-  bio: "Data Scientist | Python | ML | Visualization"
+  name: "Grace Taylor"
+  bio: "Data Scientist | Python | ML | Visualisation"
   avatar: "/assets/images/avatar.png"
-  location: "Your City, Country"
-  email: "your.email@example.com"
+  location: "Walsall, England"
+  email: "grace.taylor2105@gmail.com"
 
 markdown: kramdown
 
