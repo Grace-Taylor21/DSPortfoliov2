@@ -11,5 +11,3 @@ My approach includes exploratory data analysis (EDA) using Python, supported by 
 Key steps:
 - Data preprocessing (handling nulls, encoding, scaling)
 - Feature selection using correlation and K Means Clustering
-
-📓 [View Notebook](https://github.com/yourusername/yourrepo/blob/main/notebooks/churn_model.ipynb)
