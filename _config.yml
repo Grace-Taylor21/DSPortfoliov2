@@ -1,0 +1,27 @@
+title: "Your Name – Data Science Portfolio"
+description: "Showcasing data science projects, notebooks, and insights."
+theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+
+author:
+  name: "Your Name"
+  bio: "Data Scientist | Python | ML | Visualization"
+  avatar: "/assets/images/avatar.png"  # Optional
+  location: "Your City, Country"
+  email: "your.email@example.com"
+
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "single"
+
+include:
+  - _pages
+
