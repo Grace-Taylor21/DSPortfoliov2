@@ -1,12 +1,12 @@
 title: "Grace Taylor – Data Science Portfolio"
 description: "Showcasing data science projects, notebooks, and insights."
 remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-include-cache
-
 
 author:
   name: "Grace Taylor"
@@ -26,8 +26,7 @@ defaults:
 include:
   - _pages
 
-  collections:
+collections:
   pages:
     output: true
     permalink: /:path/
-
