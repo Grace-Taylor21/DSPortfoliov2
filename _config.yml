@@ -25,3 +25,9 @@ defaults:
 
 include:
   - _pages
+
+  collections:
+  pages:
+    output: true
+    permalink: /:path/
+
