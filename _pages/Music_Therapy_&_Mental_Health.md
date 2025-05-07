@@ -6,4 +6,4 @@ author_profile: true
 ---
 ## 🔍 Object Detection – YOLOv5
 
-![YOLO Detection Output](/assets/images/1 Summary.png)
+![YOLO Detection Output](assets/images/1 Summary.png)
